@@ -7,3 +7,6 @@ Our mission is to create the definitive platform for future development of Citra
 We hope you will join us on this journey.
 
 More information will be released as time passes. For now, work continues behind the scenes.
+
+---
+Note for developers: All previously open pull requests for Lime3DS have been closed. Do not delete your branches or forks, as these pull requests will be re-opened and rebased by a maintainer when the new emulator project is ready.
