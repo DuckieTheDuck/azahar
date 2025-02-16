@@ -1,10 +1,10 @@
-name: New Issue (Developers Only)
-description: A blank issue template for developers only. If you are not a developer, do not use this issue template. Your issue WILL BE CLOSED if you do not use the appropriate issue template.
+name: Nouveau problème (Développeurs uniquement)
+description: Un modèle de problème vierge réservé aux développeurs. Si vous n'êtes pas un développeur, n'utilisez pas ce modèle. Votre problème SERA FERMÉ si vous n'utilisez pas le modèle approprié.
 body:
   - type: markdown
     attributes:
       value: |
-        **If you are not a developer, do not use this issue template. Your issue WILL BE CLOSED if you do not use the appropriate issue template.**
+        **Si vous n'êtes pas un développeur, n'utilisez pas ce modèle. Votre problème SERA CLOS si vous n'utilisez pas le modèle de problème approprié.**
   - type: textarea
     attributes:
-      label: "Issue"
+      label: "Problème"
