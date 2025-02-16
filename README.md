@@ -1,12 +1,12 @@
 ![Azahar Emulator](https://azahar-emu.org/resources/images/logo/azahar-name-and-logo.svg)
 
-Azahar is an upcoming collaboration between [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) and [PabloMK7's Citra fork](https://github.com/PabloMK7/citra).
+Azahar est un projet de collaboration entre [Lime3DS](https://github.com/Lime3DS/lime3ds-archive) et [PabloMK7's Citra fork](https://github.com/PabloMK7/citra).
 
-Our mission is to create the definitive platform for future development of Citra, a discontinued 3DS emulator.
+Notre mission est de créer la plateforme définitive pour le développement futur de Citra, un émulateur 3DS abandonné.
 
-We hope you will join us on this journey.
+Nous espérons que vous nous rejoindrez dans ce périple.
 
-More information will be released as time passes. For now, work continues behind the scenes.
+De plus amples informations seront communiquées au fur et à mesure. Pour l'instant, le travail se poursuit en coulisses.
 
 ---
-Note for developers: All previously open pull requests for Lime3DS have been closed. Do not delete your branches or forks, as these pull requests will be re-opened and rebased by a maintainer when the new emulator project is ready.
+Note pour les développeurs : Tous les pull requests précédemment ouverts pour Lime3DS ont été fermées. Ne supprimez pas vos branches ou forks, car ces pull requests seront rouvertes et rebasées par un mainteneur lorsque le nouveau projet d'émulateur sera prêt.
