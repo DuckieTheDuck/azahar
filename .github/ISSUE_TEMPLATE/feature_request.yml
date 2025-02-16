@@ -1,28 +1,27 @@
-name: Feature Request
-description: File a feature request
-labels: ["enhancement"]
+name: Demande de fonctionnalité
+description: Déposer une demande de fonctionnalité
+labels: ["amélioration"]
 body:
   - type: markdown
     attributes:
-      value: Tech support does not belong here. You should only file an issue here if you are requesting a feature you believe would make Azahar better.
-  - type: checkboxes
+      value: Le support technique n'a pas sa place ici. Vous ne devriez déposer un problème ici que si vous demandez une fonctionnalité qui, selon vous, améliorerait Azahar.
     attributes:
-      label: Is there an existing issue for this?
-      description: Please search to see if an issue already exists for the feature you are requesting.
+      label: Y a-t-il un problème existant à ce sujet ?
+      description: Veuillez vérifier si un problème n'existe pas déjà pour la fonctionnalité que vous demandez.
       options:
-      - label: I have searched the existing issues
+      - label: J'ai recherché les problèmes existants
         required: true
   - type: textarea
     id: what-feature
     attributes:
-      label: What feature are you suggesting?
-      description: A brief description of the requested feature.
+      label: Quelle fonctionnalité suggérez-vous ?
+      description: Brève description de la fonctionnalité demandée.
     validations:
       required: true
   - type: textarea
     id: why-feature
     attributes:
-      label: Why would this feature be useful?
-      description: A brief description of why this feature would make Azahar better.
+      label: Pourquoi cette fonctionnalité serait-elle utile ?
+      description: Une brève description de la raison pour laquelle cette fonctionnalité améliorerait Azahar.
     validations:
       required: true
